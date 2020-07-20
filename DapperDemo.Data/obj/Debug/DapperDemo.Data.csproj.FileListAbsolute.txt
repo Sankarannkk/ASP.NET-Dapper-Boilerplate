@@ -1,0 +1,13 @@
+C:\Users\kks_n\source\repos\DapperDemo\DapperDemo.Data\bin\Debug\DapperDemo.Data.dll
+C:\Users\kks_n\source\repos\DapperDemo\DapperDemo.Data\bin\Debug\DapperDemo.Data.pdb
+C:\Users\kks_n\source\repos\DapperDemo\DapperDemo.Data\obj\Debug\DapperDemo.Data.csprojAssemblyReference.cache
+C:\Users\kks_n\source\repos\DapperDemo\DapperDemo.Data\obj\Debug\DapperDemo.Data.csproj.CoreCompileInputs.cache
+C:\Users\kks_n\source\repos\DapperDemo\DapperDemo.Data\obj\Debug\DapperDemo.Data.dll
+C:\Users\kks_n\source\repos\DapperDemo\DapperDemo.Data\obj\Debug\DapperDemo.Data.pdb
+C:\Users\kks_n\source\repos\DapperDemo\DapperDemo.Data\bin\Debug\Dapper.Contrib.dll
+C:\Users\kks_n\source\repos\DapperDemo\DapperDemo.Data\bin\Debug\Dapper.dll
+C:\Users\kks_n\source\repos\DapperDemo\DapperDemo.Data\bin\Debug\DapperDemo.Business.dll
+C:\Users\kks_n\source\repos\DapperDemo\DapperDemo.Data\bin\Debug\DapperDemo.Business.pdb
+C:\Users\kks_n\source\repos\DapperDemo\DapperDemo.Data\bin\Debug\Dapper.xml
+C:\Users\kks_n\source\repos\DapperDemo\DapperDemo.Data\bin\Debug\Dapper.Contrib.xml
+C:\Users\kks_n\source\repos\DapperDemo\DapperDemo.Data\obj\Debug\DapperDemo.Data.csproj.CopyComplete

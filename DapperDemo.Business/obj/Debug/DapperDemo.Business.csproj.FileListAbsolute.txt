@@ -1,0 +1,11 @@
+C:\Users\kks_n\source\repos\DapperDemo\DapperDemo.Business\bin\Debug\DapperDemo.Business.dll
+C:\Users\kks_n\source\repos\DapperDemo\DapperDemo.Business\bin\Debug\DapperDemo.Business.pdb
+C:\Users\kks_n\source\repos\DapperDemo\DapperDemo.Business\obj\Debug\DapperDemo.Business.csproj.CoreCompileInputs.cache
+C:\Users\kks_n\source\repos\DapperDemo\DapperDemo.Business\obj\Debug\DapperDemo.Business.dll
+C:\Users\kks_n\source\repos\DapperDemo\DapperDemo.Business\obj\Debug\DapperDemo.Business.pdb
+C:\Users\kks_n\source\repos\DapperDemo\DapperDemo.Business\obj\Debug\DapperDemo.Business.csprojAssemblyReference.cache
+C:\Users\kks_n\source\repos\DapperDemo\DapperDemo.Business\bin\Debug\Dapper.Contrib.dll
+C:\Users\kks_n\source\repos\DapperDemo\DapperDemo.Business\bin\Debug\Dapper.dll
+C:\Users\kks_n\source\repos\DapperDemo\DapperDemo.Business\bin\Debug\Dapper.xml
+C:\Users\kks_n\source\repos\DapperDemo\DapperDemo.Business\bin\Debug\Dapper.Contrib.xml
+C:\Users\kks_n\source\repos\DapperDemo\DapperDemo.Business\obj\Debug\DapperDemo.Business.csproj.CopyComplete

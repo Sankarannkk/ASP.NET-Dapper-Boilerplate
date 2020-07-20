@@ -3,3 +3,7 @@
 ################################################################################
 
 /packages
+/.vs
+/DapperDemo.Business/bin/Debug
+/DapperDemo.Data/bin/Debug
+/DapperDemo.Web/bin
